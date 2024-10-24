@@ -4,7 +4,7 @@
 
 #### Please note that this project is for learning purposes not to be assumed otherwise
 
-##### Folder Structure
+### Folder Structure
 
 ```
 xlv/
@@ -17,7 +17,7 @@ xlv/
 │   │   ├── input.rs       # Input handling (keystrokes)
 │   │   ├── renderer.rs    # Rendering text to terminal/screen
 │   │   └── mode.rs        # Editor modes (normal, insert, visual)
-│   ├── ui/                # UI components (optional)
+│   ├── ui/                # UI components
 │   │   ├── mod.rs         # UI module entry point
 │   │   └── status_bar.rs  # Status bar display
 │   ├── term/              # Terminal abstraction layer
