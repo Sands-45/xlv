@@ -27,7 +27,7 @@ xlv/
 │   │   ├── mod.rs         # Config module entry point
 │   │   └── keymap.rs      # Key mappings for editor shortcuts
 │   ├── main.rs            # Entry point of the program
-│   └── lib.rs             # Library entry point (for structuring larger projects)
+│   └── lib.rs             # Library entry point
 │
 ├── tests/                 # Unit and integration tests
 ├── Cargo.toml             # Rust dependencies and project metadata
