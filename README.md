@@ -1,11 +1,12 @@
 # XLV (45) Editor
 
-### XLV is a lightweigt minimal vim text editor written in Rust
+### XLV is a lightweight minimal vim text editor written in Rust
 
 #### Please note that this project is for learning purposes not to be assumed otherwise
 
 ##### Folder Structure
-<code>
+
+```
 my-rust-editor/
 │
 ├── src/
@@ -32,3 +33,5 @@ my-rust-editor/
 ├── Cargo.toml             # Rust dependencies and project metadata
 └── README.md              # Project description
 </code>
+```
+```
