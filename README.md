@@ -7,7 +7,7 @@
 ##### Folder Structure
 
 ```
-my-rust-editor/
+xlv/
 │
 ├── src/
 │   ├── editor/            # Core editor functionality
@@ -32,6 +32,5 @@ my-rust-editor/
 ├── tests/                 # Unit and integration tests
 ├── Cargo.toml             # Rust dependencies and project metadata
 └── README.md              # Project description
-</code>
 ```
 ```
